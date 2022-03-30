@@ -21,6 +21,10 @@
   body {
     padding: 0;
   }
+   .homee{
+   padding: 0px 3rem;
+
+  }
 }
 @media (max-width: 455px) {
   
