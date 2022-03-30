@@ -22,7 +22,7 @@
     padding: 0;
   }
    .homee{
-   padding: 0px 3rem;
+   padding: 0px 3rem !important;
 
   }
 }
@@ -33,7 +33,7 @@
 
   }
   .heading {
-    margin: 0 3rem;
+    margin: 0 3rem !important;
   }
 
   .about .row .counter .box {
