@@ -1,0 +1,36 @@
+@media (max-width: 1200px) {
+  html {
+    font-size: 55%;
+  }
+  .home {
+    padding: 1rem 4rem;
+  }
+}
+@media (max-width: 990px) {
+  header {
+    left: -120%;
+    transition-duration: 1s;
+  }
+  #menu {
+    display: block;
+  }
+  header.toggle {
+    left: 0%;
+    transition-duration: 0.7s;
+  }
+  body {
+    padding: 0;
+  }
+}
+@media (max-width: 455px) {
+  .heading {
+    margin: 0 3rem;
+  }
+
+  .about .row .counter .box {
+    width: 100%;
+  }
+  .portfolio .box-container .box {
+    width: 100%;
+  }
+}
