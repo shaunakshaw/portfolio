@@ -21,17 +21,17 @@
   body {
     padding: 0;
   }
-   .homee{
-   padding: 0px 3rem !important;
-
+   .homee {
+    padding: 0 3rem;
   }
+
 }
 @media (max-width: 455px) {
   
-  .homee{
-   padding: 0px 3rem;
-
+  .homee {
+    padding: 0 3rem;
   }
+
   .heading {
     margin: 0 3rem !important;
   }
