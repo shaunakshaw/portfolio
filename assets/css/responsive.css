@@ -23,6 +23,11 @@
   }
 }
 @media (max-width: 455px) {
+  
+  .homee{
+   padding: 0px 3rem;
+
+  }
   .heading {
     margin: 0 3rem;
   }
