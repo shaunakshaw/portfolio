@@ -24,12 +24,18 @@
    .homee {
     padding: 0 3rem;
   }
+   .homee h3 img {
+    width: 11% !important;
+  }
 
 }
 @media (max-width: 455px) {
   
   .homee {
     padding: 0 3rem;
+  }
+   .homee h3 img {
+    width: 11% !important;
   }
 
   .heading {
